@@ -1,0 +1,101 @@
+{
+    "WBUI2": {
+        "settings": {
+            "openbutton": 1,
+            "hideicon": true,
+            "hideiconafter": 10,
+            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+            "disableicontext": false,
+            "iconposition": 0,
+            "icontextcolor": 0,
+            "openonstart": true,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 24
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "<RichColor Color=\"0.8,0.4,0,1\">Welcome to Primal Kingdoms</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Greetings Survivor!",
+                        "text": "<TextStyle.Green>Welcome to Primal Kingdoms, the ultimate Ark: Ascended experience!</>\n\nExplore, tame, and build in a family-friendly RP environment.\n\nWe encourage creativity, teamwork, and adventure. Make sure to check all tabs for important server info, events, and rules.\n\n<TextStyle.Orange>Pro Tip:</> Use the 2, 3, or 4 Box layouts to see different types of information at a glance.\n\nStay active, respect others, and most importantly: have fun!"
+                    }
+                ]
+            },
+            {
+                "layout": 2,
+                "buttontext": "<RichColor Color=\"0,0.7,1,1\">Server Rules</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Rule #1",
+                        "text": "No griefing or harassment of other players. Play fair and respect the RP environment."
+                    },
+                    {
+                        "title": "Rule #2",
+                        "text": "Keep chat PG. Avoid offensive language; this server is family-friendly."
+                    }
+                ]
+            },
+            {
+                "layout": 3,
+                "buttontext": "<RichColor Color=\"1,0.6,0,1\">Gameplay Tips</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Taming",
+                        "text": "Use the 5x Taming multiplier wisely. Focus on imprinting for max stats!"
+                    },
+                    {
+                        "title": "Building",
+                        "text": "Structures are capped at 10,500 in range. Plan large bases carefully."
+                    },
+                    {
+                        "title": "Exploration",
+                        "text": "Ascended maps hide rare resources. Keep an eye out for hidden caves and loot!"
+                    }
+                ]
+            },
+            {
+                "layout": 4,
+                "buttontext": "<RichColor Color=\"0.9,0.1,0.1,1\">Server Info & Community</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "<TextStyle.Orange>Top Left: Server Info</>",
+                        "text": "<TextStyle.Yellow>Server runs 5x Harvesting, 5x Taming, and custom Ascended multipliers for balanced gameplay.</>"
+                    },
+                    {
+                        "title": "<TextStyle.Green>Top Right: Community</>",
+                        "text": "<TextStyle.Violet>Join our Discord to stay updated on events, RP storylines, and giveaways.</>"
+                    },
+                    {
+                        "title": "<TextStyle.Blue>Bottom Left: Events</>",
+                        "text": "<TextStyle.Red>Seasonal events and boss raids are regularly scheduled. Participate for exclusive rewards!</>"
+                    },
+                    {
+                        "title": "<TextStyle.Yellow>Bottom Right: Support</>",
+                        "text": "<TextStyle.White>Need help? Contact our admins in-game or on Discord. We’re here to assist!"
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "Primal Kingdoms Wiki",
+                "url": "https://primalkingdoms.fandom.com"
+            },
+            {
+                "text": "Join our Discord",
+                "url": "https://discord.gg/K7NyrTV"
+            },
+            {
+                "text": "Server Website",
+                "url": "https://primalkingdoms.com"
+            }
+        ],
+        "version": 2
+    }
+}
